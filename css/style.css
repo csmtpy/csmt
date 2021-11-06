@@ -433,6 +433,7 @@ ul.list1 li img:hover{
   position: relative;
 }
 /*******************/
+/*******************/
 div#clients {
 	background:#1f344f;
 	padding: 5% 0;
@@ -474,21 +475,15 @@ div#clients {
 	margin-top:5%;
 }
 .client-left img{
-	border-radius: 30em;
-	-webkit-border-radius: 30em;
-	-moz-border-radius: 30em;
-	-o-border-radius: 30em;
+	
 	margin-top: -10%;
-	border: 10px solid #eee;
+	
 }
 .client-left1 img{
-	border-radius: 30em;
-	-webkit-border-radius: 30em;
-	-moz-border-radius: 30em;
-	-o-border-radius: 30em;
+	
 	margin-left:11.3%;
 	margin-top: 2%;
-	border: 10px solid #eee;
+	
 }
 .grid_info{
 	float: right;
@@ -1025,13 +1020,13 @@ div.span4 {
 	}
 	.client-head p {
 	font-size: 1em;
-	margin-bottom: 6%;
+	
 	}
 	.team-info {
 	width: 57%;
 	}
 	#contact {
-		background: #0b2559;
+		background: #f0502c;
 		padding: 4% 0;
 	}
 	.contact form textarea {
@@ -1440,7 +1435,7 @@ div.span4 {
 	 padding: 0.5em;
 	}
 	.copy-right p {
-		color: #fff;
+		color: rgb(192, 17, 17);
 		font-size: 0.843em;
 	}
 	#toTop {
@@ -1543,4 +1538,3 @@ div.span4 {
 		top: 100px;
 	}
 }
-
